@@ -1,4 +1,16 @@
-.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+.Rproj.user/
+
+.DS_Store
+
+lib*/
+*.zip
+
+outputs/logs/*.csv
+outputs/logs/*.txt
+
+data/raw/*.html
+data/raw/*.tmp
+data/raw/*.download
