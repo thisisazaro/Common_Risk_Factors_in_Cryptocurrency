@@ -1,4 +1,7 @@
+
 # Common_Risk_Factors_in_Cryptocurrency
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19015561.svg)](https://doi.org/10.5281/zenodo.19015561)
 
 A reproducible **R-based research repository** for analyzing cryptocurrency returns through a structured empirical pipeline. The project combines **data cleaning, descriptive statistics, cross-sectional predictors, crypto factor construction, grouped market comparison, attention models, macro-sentiment-hashrate models, and blockchain network factor models** into one transparent workflow.
 
@@ -429,7 +432,11 @@ This repository is intended to demonstrate a professional standard of empirical 
 - portfolio-ready
 
 
+## Citation
 
+If you use this repository, please cite the Zenodo software record:
+
+> Azarov, Evgenii. *Common_Risk_Factors_in_Cryptocurrency*. Zenodo. https://doi.org/10.5281/zenodo.19015561
 
 
 ## Code Organization

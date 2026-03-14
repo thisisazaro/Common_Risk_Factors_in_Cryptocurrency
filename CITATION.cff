@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Common_Risk_Factors_in_Cryptocurrency"
+message: "If you use this repository, please cite the software record."
+type: software
+authors:
+  - family-names: "Azarov"
+    given-names: "Evgenii"
+repository-code: "https://github.com/thisisazaro/Common_Risk_Factors_in_Cryptocurrency"
+doi: "10.5281/zenodo.19015561"
+license: "MIT"
